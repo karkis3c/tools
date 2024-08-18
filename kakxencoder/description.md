@@ -4,7 +4,7 @@ Tool to create instant encoded payloads to bypass filters
 
 ## Install
 
-1. `wget `
+1. `wget https://github.com/karkis3c/tools/blob/main/kakxencoder/kakxencoder`
 2. `chmod +x kakxencoder;sudo mv kakxencoder /usr/local/bin`
 
 Help menu
